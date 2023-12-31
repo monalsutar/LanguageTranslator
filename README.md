@@ -11,7 +11,7 @@ Android Compatibility: The app is optimized for Android devices, ensuring a smoo
 
 Getting Started:
 
-Clone the repository: git clone https://github.com/rupesh2004/Translator.git
+Clone the repository: git clone https://github.com/monalsutar/LanguageTranslator.git
 Follow the installation instructions in the provided documentation.
 Explore the power of real-time language translation on your Android device.
 Feel free to contribute, report issues, or suggest enhancements. Break down language barriers with our Real-Time Translator app!

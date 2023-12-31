@@ -8,10 +8,3 @@ Real-Time Translation: Translate text instantly from one language to another for
 User-Friendly Interface: Enjoy a simple and intuitive interface designed for easy navigation and seamless translation.
 Multilingual Support: Access a wide range of languages to cater to diverse communication needs.
 Android Compatibility: The app is optimized for Android devices, ensuring a smooth user experience on mobile phones and tablets.
-
-Getting Started:
-
-Clone the repository: git clone https://github.com/monalsutar/LanguageTranslator.git
-Follow the installation instructions in the provided documentation.
-Explore the power of real-time language translation on your Android device.
-Feel free to contribute, report issues, or suggest enhancements. Break down language barriers with our Real-Time Translator app!
